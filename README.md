@@ -77,7 +77,7 @@
 
 ---
 
-[website]: http://bilgehangecici.site/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
-[Spotify]: https://open.spotify.com/user/11153360645
+
+[instagram]: https://www.instagram.com/weberstills/
+[linkedin]: https://www.linkedin.com/in/adamoommenjacob/
+[Spotify]: https://open.spotify.com/user/31syicw335ltscln4oc2ryo4iule?si=2KYW7kwGRu21akmDMd24Nw&utm_source=copy-link
