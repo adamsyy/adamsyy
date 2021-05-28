@@ -1,6 +1,6 @@
-# Hi there, I'm Adam - aka [weberstills][website] <img width="30px" src="https://www.linkedin.com/in/adamoommenjacob/" />
+# Hi there, I'm Adam 
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 
 ## I'm a Computer Science and Engineering Student  
 
