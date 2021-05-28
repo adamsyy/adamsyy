@@ -1,8 +1,7 @@
 [Aditya Vikram Singh Banner](https://media-exp1.licdn.com/dms/image/C5603AQFJGVyMOcEIFA/profile-displayphoto-shrink_400_400/0/1621190541443?e=1627516800&v=beta&t=yybgnZwdGaULU6jgXwX7XwcRj2sZSGIeAzGa20HKJK0)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
-
+# Hi there,i'm Adam
 
 
 ## I'm a Computer Science and Engineering Student  
