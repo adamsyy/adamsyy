@@ -77,10 +77,6 @@
 
 ---
 
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
-
----
-
 [website]: http://bilgehangecici.site/
 [instagram]: https://www.instagram.com/bilgehangecici
 [linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
