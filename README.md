@@ -80,4 +80,4 @@
 
 [instagram]: https://www.instagram.com/weberstills/
 [linkedin]: https://www.linkedin.com/in/adamoommenjacob/
-[Spotify]: https://open.spotify.com/user/31syicw335ltscln4oc2ryo4iule?si=2KYW7kwGRu21akmDMd24Nw&utm_source=copy-link
+[Spotify]: https://open.spotify.com/track/2dqqDKp2LRm1MsyqxWeRIO?si=754036734852420e
