@@ -6,7 +6,7 @@
 ## I'm a Computer Science and Engineering Student  
 
 - 👨‍💻 I’m doing my B.Tech from Model engineering college,Thrikakkara.
-- 📚 I’m currently learning app development with Flutter 😅
+- 📚 I love app development with Flutter and i'm learning django now 😅
 - 💪🏼 I make youtube videos in my free time.
 - ⚡ Fun fact: I love to solve Rubik's cubes 🎱.
 
