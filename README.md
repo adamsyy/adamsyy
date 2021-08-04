@@ -1,4 +1,4 @@
-![BFH Banner](https://media-exp1.licdn.com/dms/image/C5616AQGYtDncyxV3IA/profile-displaybackgroundimage-shrink_350_1400/0/1621802958971?e=1627516800&v=beta&t=H5fF_F0n3sekaCq_-9gyro4JcFtZBVhdF0CTNFLOrX0)
+![BFH Banner](https://photos.google.com/u/1/photo/AF1QipMRscFgp_ZnjfyFjGmLDd63ngiadaaBfps64S1t)
 
 # Hi there,i'm Adam
 
