@@ -1,5 +1,5 @@
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://ibb.co/pd16t7x)
 
 # Hi there,i'm Adam
 
