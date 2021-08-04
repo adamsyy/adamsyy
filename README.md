@@ -1,4 +1,5 @@
-![](https://photos.google.com/u/1/photo/AF1QipMRscFgp_ZnjfyFjGmLDd63ngiadaaBfps64S1t)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 # Hi there,i'm Adam
 
