@@ -1,4 +1,4 @@
-![BFH Banner](https://photos.google.com/u/1/photo/AF1QipMRscFgp_ZnjfyFjGmLDd63ngiadaaBfps64S1t)
+![](https://photos.google.com/u/1/photo/AF1QipMRscFgp_ZnjfyFjGmLDd63ngiadaaBfps64S1t)
 
 # Hi there,i'm Adam
 
