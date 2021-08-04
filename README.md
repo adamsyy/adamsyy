@@ -1,5 +1,4 @@
 
-![Image of Yaktocat](https://pasteboard.co/KemJBNJ.jpg)
 
 # Hi there,i'm Adam
 
