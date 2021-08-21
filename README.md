@@ -49,7 +49,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![Djanfo](https://img.shields.io/badge/-Django-61DAFB?style=flat-square&logo=django&logoColor=ffffff)
-
+![Sqlite3](https://img.shields.io/badge/-Sqlite3-FFCA28?style=flat-square&logo=sqlite3&logoColor=ffffff)
+![Mongodb](http://img.shields.io/badge/-Mongodb-007ACC?style=flat-square&logo=mongodb&logoColor=ffffff)
 
 <br/>
 
