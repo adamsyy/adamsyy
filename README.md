@@ -51,6 +51,7 @@
 ![Djanfo](https://img.shields.io/badge/-Django-61DAFB?style=flat-square&logo=django&logoColor=ffffff)
 ![Sqlite3](https://img.shields.io/badge/-Sqlite3-FFCA28?style=flat-square&logo=sqlite3&logoColor=ffffff)
 ![Mongodb](http://img.shields.io/badge/-Mongodb-007ACC?style=flat-square&logo=mongodb&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 
 <br/>
 
