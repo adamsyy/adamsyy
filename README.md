@@ -40,8 +40,8 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-%23CC6699?style=flat-square&logo=flutter&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 ![C++](http://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=c++&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-61DAFB?style=flat-square&logo=django&logoColor=ffffff)
-![C](https://img.shields.io/badge/-C-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![Java](https://img.shields.io/badge/-Java-61DAFB?style=flat-square&logo=java&logoColor=ffffff)
+![C](https://img.shields.io/badge/-C-%23F05032?style=flat-square&logo=c&logoColor=%23ffffff)
 ![Dart](https://img.shields.io/badge/-Dart-61DAFB?style=flat-square&logo=dart&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
@@ -53,7 +53,7 @@
 ![Django](https://img.shields.io/badge/-Django-61DAFB?style=flat-square&logo=django&logoColor=ffffff)
 ![Sqlite3](https://img.shields.io/badge/-Sqlite3-FFCA28?style=flat-square&logo=sqlite3&logoColor=ffffff)
 ![Mongodb](http://img.shields.io/badge/-Mongodb-007ACC?style=flat-square&logo=mongodb&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-%23E44D27?style=flat-square&logo=react&logoColor=ffffff)
 
 <br/>
 
