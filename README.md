@@ -21,7 +21,7 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=weberstills&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=adamsyy&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Connect with me 📝
 
@@ -69,10 +69,10 @@
   
   <div align="center"> 
      <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=weberstills&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=adamsyy&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weberstills&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamsyy&theme=react&line_height=40&hide=css"/>
     </a>
 </div
 
@@ -80,7 +80,7 @@
 <br />
 
 ---
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=weberstills&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=adamsyy&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
