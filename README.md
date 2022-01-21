@@ -1,6 +1,3 @@
-
-
-# Hi there,i'm Adam
 ![image](https://cdn1.bbcode0.com/uploads/2022/1/21/e88c36aeddc6e4f20a8a966f3f97fddc-full.png)
 
 ## I'm a Computer Science and Engineering Student  
