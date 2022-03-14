@@ -1,5 +1,5 @@
 # Hi there, I'm Adam 👋 
-<img src="https://c.tenor.com/wvulBezhUUoAAAAC/rain-study.gif" width="800px" height="500px">
+<img src="https://c.tenor.com/wvulBezhUUoAAAAC/rain-study.gif" >
 
 ## I'm a Computer Science and Engineering Student  
 
