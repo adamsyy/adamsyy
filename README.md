@@ -1,5 +1,5 @@
 # Hi there, I'm Adam 👋 
-<img src="https://c.tenor.com/Txr7RYfzW-EAAAAC/anime-boy.gif" >
+<img src="https://p.favim.com/orig/2019/01/24/chill-retro-lofi-hiphop-Favim.com-6852975.gif" >
 
 ## I'm a Computer Science and Engineering Student  
 
