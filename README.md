@@ -1,5 +1,5 @@
 # Hi there, I'm Adam 👋 
-<img src="https://p.favim.com/orig/2019/01/24/chill-retro-lofi-hiphop-Favim.com-6852975.gif" >
+<img src="https://data.whicdn.com/images/326083087/original.gif" >
 
 ## I'm a Computer Science and Engineering Student  
 
