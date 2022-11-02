@@ -4,7 +4,7 @@
 ## I'm a Computer Science and Engineering Student  
 
 - 👨‍💻 I’m doing my B.Tech from Model engineering college,Thrikakkara.
-- 📚 I love app development with Flutter and i'm learning Nodejs now 😅
+- 📚 I love Flutter and Nodejs and i'm learning more about Web3 now 😅
 - 💪🏼 I make youtube videos in my free time.
 - ⚡ Fun fact: I love to solve Rubik's cubes 🎱.
 
