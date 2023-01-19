@@ -11,8 +11,7 @@ Hey! I am Adam, an engineering student, a Coder, and a Youtuber. I love building
 
 <h1>Technical Skills 🛠</h1>
    
-I have learned web-development and having knowledge of HTML,CSS & Javascript, Jquery and ReactJs. I have Worked on Supervised and Unsupervised Machine learning, ML Algorithms(Linear regression, Naive byes, K-means and random forest). Have explored and built projects using datasets of scikit-learn , Kaggle and keras. Tech: Data Science, Machine learning, Microsoft Azure, Deep learning, Google cloud, ReactJs, NodeJs, Firebase, Tensor Flow, SQL, Flutter.
- Known Languages: Python, C++, C, Java, Html, JavaScript, and CSS.
+I have learned app-development and have knowledge of HTML,CSS & Javascript, ReactJs, Nodejs, Datastructures, Nextjs and Solidity. I have Worked on many production level projects including 3 internships as a full stack developer. Known Languages: Java, Dart, JavaScript, C, Solidity.
 
 <p align="center"> 
 <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
