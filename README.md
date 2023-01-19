@@ -98,5 +98,6 @@ Visit us at:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamsyy&theme=dark" alt="Adamsy" /></p>
   </div>
    
-   
+   [![GitHub followers](https://img.shields.io/github/followers/adamsyy.svg?style=social&label=Follow)](https://github.com/adamsyy?tab=followers)
+
 
