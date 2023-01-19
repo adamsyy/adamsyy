@@ -53,9 +53,9 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | [Initial coin offering](https://github.com/adamsyy/Initial-coin-offering)     | A website for initial coin offering for crypto devs token.
 | [Plot](https://github.com/adamsyy/PLOT-MAKEATON)     | Android app to invest in lands, lease it and book parking spaces
 | [Seventy5](https://github.com/adamsyy/Seventy5)     | Seventy5 is a college management application that allows students of MEC (Model Engineering College) to check their attendance, timetable and get personalized suggestions for bunking classes.
-   | [Lazy Builder](https://github.com/adamsyy/Seventy5](https://github.com/adamsyy/hacknight_github)     | Resume Builder based on your GitHub stats/ activity for people who are as lazy as us
-      | [Plumbr](https://github.com/adamsyy/plumbr)     | Plumbr is an app that provides all kinds of services from household to plumbing works. It directly connects the employee to the customer.
-         | [Zappit](https://github.com/adamsyy/zappit)     | Django rest api project for a social media
+| [Lazy Builder](https://github.com/adamsyy/hacknight_github)     | Resume Builder based on your GitHub stats/ activity for people who are as lazy as us
+| [Plumbr](https://github.com/adamsyy/plumbr)     | Plumbr is an app that provides all kinds of services from household to plumbing works. It directly connects the employee to the customer.
+| [Zappit](https://github.com/adamsyy/zappit)     | Django rest api project for a social media
  <h1 align="center">Let's Get Connected</h1>
 
 <div align="center">
