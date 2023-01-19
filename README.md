@@ -1,12 +1,12 @@
 ![](https://raw.githubusercontent.com/adamsyy/adamsyy/main/header.png)
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"> Saurav Mukherjee </a></h1>
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"> Adam Oommen Jacob </a></h1>
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
 Hey! I am Adam, an engineering student, a Coder, and a Youtuber. I love building apps with Flutter and sometimes I make Youtube videos (adamsy). I am a quick learner looking forward to enhancing my skills and gaining more experience. ⚡
 
-<h3 align="center"> Paasionate Web Developer | Machine Learning Enthusiast </h3>
+<h3 align="center"> Full stack App Developer | Flutter x Nodejs </h3>
 
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=SauravMukherjee44&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p></h3>
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=adamsyy&label=Profile%20views&color=6805D3&style=flat" alt="SauravMukherjee" /> </p></h3>
    <div align="center">
 
 <h1>Technical Skills 🛠</h1>
