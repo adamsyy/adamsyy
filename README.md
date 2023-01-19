@@ -64,7 +64,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 <a  href="https://www.youtube.com/adamsy" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 <a  href="[https://www.linkedin.com/in/sauravmukherjee44/](https://www.linkedin.com/in/adamsy/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="[https://twitter.com/mesourav44](https://twitter.com/adamsycodes)" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="https://twitter.com/adamsycodes" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:adamoommen.mec@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a  href="https://t.me/adamsy7"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a  href="https://www.instagram.com/adamsyyyyyy/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -90,13 +90,7 @@ Visit us at:
  </div>
    
    
-<table>
-  <tr>
-   
-<td><img src="https://github-readme-stats.vercel.app/api?username=SauravMukherjee44&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SauravMukherjee44&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" /></td>
-  </tr>
-</table>
+
 
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamsyy&theme=dark" alt="Adamsy" /></p>
