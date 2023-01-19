@@ -82,11 +82,6 @@ Check out the youtube channel for keeping up with the latest tech stacks and opp
 
 Visit us at: 
  <a href="[https://codeincommunity.tech](https://www.youtube.com/adamsy)"><img alt="Website" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
-
-  <span> <h2>Join the Community on Discord ⚡</h2>
-<a  href="https://discord.gg/hWwbgP4dz9"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a  href="https://t.me/CodeINCommunity"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a  href="https://www.linkedin.com/company/codein-community/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></span>
    
  </div>
    
