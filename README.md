@@ -46,14 +46,14 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-      | [Seventy5](https://github.com/adamsyy/Seventy5)     | Seventy5 is a college management application that allows students of MEC (Model Engineering College) to check their attendance, timetable and get personalized suggestions for bunking classes.
+| [My Portfolio Website](https://github.com/adamsyy/portfolio)     | Portfolio website build using HTML5, CSS3, JavaScript. 
 | [Finez](https://github.com/adamsyy/fineazy-backend)     | FinEazy helps in diversifying their portfolio by investing in a bunch of crypto assets to mitigate risk.
 | [Keralolsavam website](https://github.com/adamsyy/keralolsavam-backend)     | full stack website for kerala kololsavam with 1000+ users |
 | [Medscape](https://github.com/adamsyy/medscape-backend)     | Android app for health management.
 | [Initial coin offering](https://github.com/adamsyy/Initial-coin-offering)     | A website for initial coin offering for crypto devs token.
 | [Plot](https://github.com/adamsyy/PLOT-MAKEATON)     | Android app to invest in lands, lease it and book parking spaces
 | [Seventy5](https://github.com/adamsyy/Seventy5)     | Seventy5 is a college management application that allows students of MEC (Model Engineering College) to check their attendance, timetable and get personalized suggestions for bunking classes.
-| [My Portfolio Website](https://github.com/adamsyy/portfolio)     | Portfolio website build using HTML5, CSS3, JavaScript. 
+   | [Seventy5](https://github.com/adamsyy/Seventy5)     | Seventy5 is a college management application that allows students of MEC (Model Engineering College) to check their attendance, timetable and get personalized suggestions for bunking classes.
 
  <h1 align="center">Let's Get Connected</h1>
 
@@ -100,5 +100,4 @@ Visit us at:
   </div>
    
    [![GitHub followers](https://img.shields.io/github/followers/adamsyy.svg?style=social&label=Follow)](https://github.com/adamsyy?tab=followers)
-
 
