@@ -56,6 +56,8 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | [Lazy Builder](https://github.com/adamsyy/hacknight_github)     | Resume Builder based on your GitHub stats/ activity for people who are as lazy as us
 | [Plumbr](https://github.com/adamsyy/plumbr)     | Plumbr is an app that provides all kinds of services from household to plumbing works. It directly connects the employee to the customer.
 | [Zappit](https://github.com/adamsyy/zappit)     | Django rest api project for a social media
+| [Apartment 4A](https://github.com/adamsyy/apartment4a)     | An app which will be a one stop solution to all the problems Students are facing these days.
+| [Casa](https://github.com/adamsyy/casa)     | College exclusive dating application with 500+ downloads in less than 3 days
  <h1 align="center">Let's Get Connected</h1>
 
 <div align="center">
