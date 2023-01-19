@@ -78,7 +78,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
    <div align="center">
       
    <h1 align="center">Youtube x Adamsy</h1>
-      <img width="10%" align="center"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/01033044396cd45db3731e6ac37284dc5386e2cd/CodeIN%20Logo.png" >
+<!--       <img width="10%" align="center"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/01033044396cd45db3731e6ac37284dc5386e2cd/CodeIN%20Logo.png" > -->
 <br>
 Adamsy is a YouTube channel with over 6000 subscribers and 1 million+ views. The channel focuses on creating tech videos for college students, providing them with the latest information and tutorials on various technology related topics."
 
