@@ -58,13 +58,12 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
 <div align="center">
 
-<a  href="https://www.youtube.com/channel/UCYGVtIgQIAChKBWBmChxzJw" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-<a  href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/mesourav44" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:mesouravofficial@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a  href="https://t.me/Saurav_44"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a  href="https://discord.com/users/758681549993541684"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-<a  href="https://www.instagram.com/mesouravofficial/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a  href="https://www.youtube.com/adamsy" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a  href="[https://www.linkedin.com/in/sauravmukherjee44/](https://www.linkedin.com/in/adamsy/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://twitter.com/mesourav44](https://twitter.com/adamsycodes)" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto:adamoommen.mec@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="https://t.me/adamsy7"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a  href="https://www.instagram.com/adamsyyyyyy/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
    </a>
 
    
@@ -74,16 +73,15 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 
    <div align="center">
       
-   <h1 align="center">CodeIN Community</h1>
+   <h1 align="center">Youtube x Adamsy</h1>
       <img width="10%" align="center"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/01033044396cd45db3731e6ac37284dc5386e2cd/CodeIN%20Logo.png" >
 <br>
-I started India's Top Growing Student Technical Community of 10,000+ Students. Where we organize Events, Hackathons, and Workshops on different Technologies. Also, We Share Resources, Roadmaps to learn different technologies and share opportunities related to Internships and different tech programs.
-We are providing 1:1 Mentorship on our Discord server totally free of cost.
+Adamsy is a YouTube channel with over 6000 subscribers and 1 million+ views. The channel focuses on creating tech videos for college students, providing them with the latest information and tutorials on various technology related topics."
 
-Join the community on Discord for interaction with students from all over India.
+Check out the youtube channel for keeping up with the latest tech stacks and opportunities
 
 Visit us at: 
- <a href="https://codeincommunity.tech"><img alt="Website" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
+ <a href="[https://codeincommunity.tech](https://www.youtube.com/adamsy)"><img alt="Website" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
 
   <span> <h2>Join the Community on Discord ⚡</h2>
 <a  href="https://discord.gg/hWwbgP4dz9"><img alt=" Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
