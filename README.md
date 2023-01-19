@@ -2,7 +2,7 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"> Saurav Mukherjee </a></h1>
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
-A bit about Myself, I am <b>Saurav Mukherjee</b> pursuing my <b>Computer Science Degree</b> currently in my pre-final year, As of now, I am focused on <b>web development, Data Science and Machine Learning </b> but still, wish to explore many fields. ⚡
+Hey! I am Adam, an engineering student, a Coder, and a Youtuber. I love building apps with Flutter and sometimes I make Youtube videos (adamsy). I am a quick learner looking forward to enhancing my skills and gaining more experience. ⚡
 
 <h3 align="center"> Paasionate Web Developer | Machine Learning Enthusiast </h3>
 
