@@ -48,8 +48,7 @@ I believe in implementing the knowledge which you have. Projects play a major ro
 | :---:        |    :----   |  
 | [My Portfolio Website](https://github.com/adamsyy/portfolio)     | Portfolio website build using HTML5, CSS3, JavaScript. 
 | [Finez](https://github.com/adamsyy/fineazy-backend)     | FinEazy helps in diversifying their portfolio by investing in a bunch of crypto assets to mitigate risk.
-Making a crypto basket and investing in this basket suggested by crypto experts
-| [Machine Learning Prediction Model](https://github.com/SauravMukherjee44/The-Sparks-Foundation---Machine-Learning-Task-1/blob/main/Sparks%20Foundation%20Task%20-1%20.ipynb)     | In this regression task we will predict the  percentage of marks that a student is expected to score based upon the number of hours they studied. |
+| [Keralolsavam website]([https://github.com/SauravMukherjee44/The-Sparks-Foundation---Machine-Learning-Task-1/blob/main/Sparks%20Foundation%20Task%20-1%20.ipynb](https://github.com/adamsyy/keralolsavam-backend))     | full stack website for kerala kololsavam with 1000+ users |
 | [E-Mail Classification Model](https://github.com/SauravMukherjee44/Email-Classification-Model)     | Classify emails as spam or not-spam on the basis of the message.
 | [Netflix-Clone-PC-App](https://netflix-clone-saurav.herokuapp.com/)     | Netflix clone App built with React and Redux. The objective of this project is to practising the concepts of 'React-Hooks', 'Redux-Hooks', react-router, redux-setup and testing code using Jest.
 | [Netflix-Clone-Mobile-App](https://netflix-clone-9b94a.web.app/)     | Netflix clone App built with ReactJS, TMDB Api, Firebase, CSS and JavaScript.
