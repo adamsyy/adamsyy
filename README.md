@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/adamsyy/adamsyy/main/header.png)
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/sauravmukherjee44/" target="_blank"> Adam Oommen Jacob </a></h1>
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/adamsy" target="_blank"> Adam Oommen Jacob </a></h1>
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
 Hey! I am Adam, an engineering student, a Coder, and a Youtuber. I love building apps with Flutter and sometimes I make Youtube videos (adamsy). I am a quick learner looking forward to enhancing my skills and gaining more experience. As a student pursuing a degree in Computer Science, I am eager to apply my skills and knowledge to real-world challenges ⚡
