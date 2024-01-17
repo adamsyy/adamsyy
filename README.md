@@ -82,9 +82,7 @@ Adamsy is a YouTube channel with over 6000 subscribers and 1 million+ views. The
 
 Check out the youtube channel for keeping up with the latest tech stacks and opportunities
 
-Visit us at: 
- <a href="[https://codeincommunity.tech](https://www.youtube.com/adamsy)"><img alt="Website" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
-   
+
  </div>
    
    
